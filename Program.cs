@@ -21,20 +21,7 @@ class Recursividade
     
 }
 
- /*Teste usando recursividade: A elevado a B.
-    
-    static int expoente(int a,int b)
-    {
-        
-
-        if(b==0)
-        {
-            return 1;
-        }
-
-        return a*expoente(a,b-1);
-
-    } /*Teste usando recursividade: A elevado a B.
+ //Teste usando recursividade: A elevado a B.
     
     static int expoente(int a,int b)
     {
@@ -59,53 +46,24 @@ class Recursividade
 
         Console.WriteLine($"\n 2 elevado à {b} é igual a {expoente(a,b)}");
         
-    }*/ /*Teste usando recursividade: A elevado a B.
-    
-    static int expoente(int a,int b)
-    {
-        
-
-        if(b==0)
-        {
-            return 1;
-        }
-
-        return a*expoente(a,b-1);
-
     }
 
-    static void Main(string[] args)
-    {  
-        Console.Write($"Digite um numero base: ");
-        int a=Convert.ToInt32(Console.ReadLine());
 
-        Console.Write($"\nDigite um expoente para {a}: ");
-        int b=Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine($"\n 2 elevado à {b} é igual a {expoente(a,b)}");
+    /*Programa Recursivo somatoria
         
-    }*/
-
-    /*static void Main(string[] args)
-    {  
-        Console.Write($"Digite um numero base: ");
-        int a=Convert.ToInt32(Console.ReadLine());
-
-        Console.Write($"\nDigite um expoente para {a}: ");
-        int b=Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine($"\n 2 elevado à {b} é igual a {expoente(a,b)}");
-        
-    }*/
-
-/*TEste somatoria.
-static int somatoria(int a)
+    
+            //teste somatoria.
+            
+        static int somatoria(int a)
     { 
         
-      if(a==1)//Não consigo implemetar variaveis da função Main aqui.Pensei em utilizar dois parametros aqui mas não foi possivel.Inclusive tinha feito o inverso do que está escrito. eu estava somando.
+      if(a==1)
+      /*Não consigo implemetar variaveis da função Main aqui.
+      Pensei em utilizar dois parametros aqui mas não foi possivel.
+      Inclusive tinha feito o inverso do que está escrito. eu estava somando.*/
       {
 
-        return 1;//Esse return simboliza que a operação seguinte será realizada uma ultima vez. o código Return 1 fará com que a variavel 'a' assuma o valor designinado e portanto eu poderia retornar 'a'.
+        return 1;//Esse return simboliza que a operação seguinte será realizada uma ultima vez. Eu poderia retornar 'a'.
       }
      
 
@@ -127,6 +85,8 @@ static int somatoria(int a)
         Console.WriteLine($"A somatoria de {c} é {somatoria(c)}");
         
     }*/
+
+        
 /*Recursão usando fibonacci.
 
 static int Fibonacci(int a)
@@ -137,7 +97,9 @@ static int Fibonacci(int a)
         }
         
         
-           return Fibonacci(a-1)+Fibonacci(a-2);//Por que ele repete o processo?R:Aparentemente ela reabastece o metodo fatorial porque ele retorna fatorial.
+           return Fibonacci(a-1)+Fibonacci(a-2);
+           //Por que ele repete o processo?R:Aparentemente ela reabastece o metodo fatorial porque ele retorna fatorial.
+           //Dúvidas que eu tinha ao desenvolver o programa.Inclusive eu mesmo me respondia.
 
     }
 
@@ -168,7 +130,7 @@ static int Fibonacci(int a)
         }
         
         
-           return a*fatorial(a-1);//Por que ele repete o processo?
+           return a*fatorial(a-1);//Por que ele repete o processo?Não existe nenhum laço aparente.
 
     }
 
