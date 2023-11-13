@@ -1,0 +1,14 @@
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\bin\Debug\net7.0\Recursividade.exe
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\bin\Debug\net7.0\Recursividade.deps.json
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\bin\Debug\net7.0\Recursividade.runtimeconfig.json
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\bin\Debug\net7.0\Recursividade.dll
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\bin\Debug\net7.0\Recursividade.pdb
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfo.cs
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.dll
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\refint\Recursividade.dll
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.pdb
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\Recursividade.genruntimeconfig.cache
+C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\Recursividade\obj\Debug\net7.0\ref\Recursividade.dll
